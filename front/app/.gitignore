@@ -57,5 +57,5 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
-
-Esboco.txt
+# arquivos
+!Esboco.txt
